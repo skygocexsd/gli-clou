@@ -1,11 +1,11 @@
 #!/usr/bin/env bash
 
 # 设置各变量
-UUID='11d2e4a0-4a73-4f08-950a-36f4584826e9'
-VMESS_WSPATH='/vmess'
-VLESS_WSPATH='/vless'
-TROJAN_WSPATH='/trojan'
-SS_WSPATH='/shadowsocks'
+UUID='3b55781b-d956-4bcc-9d93-8c39e4629876'
+VMESS_WSPATH='/vmesyr6s'
+VLESS_WSPATH='/vletruukss'
+TROJAN_WSPATH='/troj56fffan'
+SS_WSPATH='/shadowsocteytks'
 
 # 安装系统依赖
 check_dependencies() {
